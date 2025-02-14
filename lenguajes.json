@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "JavaScript",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript_logo_and_wordmark.svg",
+    "descripcion": "JavaScript es un lenguaje de programación de alto nivel utilizado para crear aplicaciones web interactivas."
+  },
+  {
+    "nombre": "Python",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+    "descripcion": "Python es un lenguaje de programación interpretado, de alto nivel y orientado a objetos."
+  },
+  {
+    "nombre": "C++",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg",
+    "descripcion": "C++ es un lenguaje de programación de propósito general, utilizado para el desarrollo de software de sistemas."
+  }
+]
